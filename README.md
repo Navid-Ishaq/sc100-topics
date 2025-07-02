@@ -5,7 +5,7 @@ A practical breakdown of all 78 SC-100 skill statements — with real-world insi
 
 | #  | Topic |
 |----|-------|
-| [1] | [SC-100 Topic 1](./01-sc100-topic.md) |
+| [1] | [SC-100 Topic 1](./01-security-strategy-business-resiliency.md) |
 | [2] | [SC-100 Topic 2](./02-sc100-topic.md) |
 | [3] | [SC-100 Topic 3](./03-sc100-topic.md) |
 | [4] | [SC-100 Topic 4](./04-sc100-topic.md) |
