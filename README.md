@@ -3,83 +3,87 @@ A practical breakdown of all 78 SC-100 skill statements — with real-world insi
 
 ## 📑 SC-100 Learning Topics Index
 
-| #  | Topic |
-|----|-------|
-| [1] | [SC-100 Topic 1](./01-security-strategy-business-resiliency.md) |
-| [2] | [SC-100 Topic 2](./02-sc100-topic.md) |
-| [3] | [SC-100 Topic 3](./03-sc100-topic.md) |
-| [4] | [SC-100 Topic 4](./04-sc100-topic.md) |
-| [5] | [SC-100 Topic 5](./05-sc100-topic.md) |
-| [6] | [SC-100 Topic 6](./06-sc100-topic.md) |
-| [7] | [SC-100 Topic 7](./07-sc100-topic.md) |
-| [8] | [SC-100 Topic 8](./08-sc100-topic.md) |
-| [9] | [SC-100 Topic 9](./09-sc100-topic.md) |
-| [10] | [SC-100 Topic 10](./10-sc100-topic.md) |
-| [11] | [SC-100 Topic 11](./11-sc100-topic.md) |
-| [12] | [SC-100 Topic 12](./12-sc100-topic.md) |
-| [13] | [SC-100 Topic 13](./13-sc100-topic.md) |
-| [14] | [SC-100 Topic 14](./14-sc100-topic.md) |
-| [15] | [SC-100 Topic 15](./15-sc100-topic.md) |
-| [16] | [SC-100 Topic 16](./16-sc100-topic.md) |
-| [17] | [SC-100 Topic 17](./17-sc100-topic.md) |
-| [18] | [SC-100 Topic 18](./18-sc100-topic.md) |
-| [19] | [SC-100 Topic 19](./19-sc100-topic.md) |
-| [20] | [SC-100 Topic 20](./20-sc100-topic.md) |
-| [21] | [SC-100 Topic 21](./21-sc100-topic.md) |
-| [22] | [SC-100 Topic 22](./22-sc100-topic.md) |
-| [23] | [SC-100 Topic 23](./23-sc100-topic.md) |
-| [24] | [SC-100 Topic 24](./24-sc100-topic.md) |
-| [25] | [SC-100 Topic 25](./25-sc100-topic.md) |
-| [26] | [SC-100 Topic 26](./26-sc100-topic.md) |
-| [27] | [SC-100 Topic 27](./27-sc100-topic.md) |
-| [28] | [SC-100 Topic 28](./28-sc100-topic.md) |
-| [29] | [SC-100 Topic 29](./29-sc100-topic.md) |
-| [30] | [SC-100 Topic 30](./30-sc100-topic.md) |
-| [31] | [SC-100 Topic 31](./31-sc100-topic.md) |
-| [32] | [SC-100 Topic 32](./32-sc100-topic.md) |
-| [33] | [SC-100 Topic 33](./33-sc100-topic.md) |
-| [34] | [SC-100 Topic 34](./34-sc100-topic.md) |
-| [35] | [SC-100 Topic 35](./35-sc100-topic.md) |
-| [36] | [SC-100 Topic 36](./36-sc100-topic.md) |
-| [37] | [SC-100 Topic 37](./37-sc100-topic.md) |
-| [38] | [SC-100 Topic 38](./38-sc100-topic.md) |
-| [39] | [SC-100 Topic 39](./39-sc100-topic.md) |
-| [40] | [SC-100 Topic 40](./40-sc100-topic.md) |
-| [41] | [SC-100 Topic 41](./41-sc100-topic.md) |
-| [42] | [SC-100 Topic 42](./42-sc100-topic.md) |
-| [43] | [SC-100 Topic 43](./43-sc100-topic.md) |
-| [44] | [SC-100 Topic 44](./44-sc100-topic.md) |
-| [45] | [SC-100 Topic 45](./45-sc100-topic.md) |
-| [46] | [SC-100 Topic 46](./46-sc100-topic.md) |
-| [47] | [SC-100 Topic 47](./47-sc100-topic.md) |
-| [48] | [SC-100 Topic 48](./48-sc100-topic.md) |
-| [49] | [SC-100 Topic 49](./49-sc100-topic.md) |
-| [50] | [SC-100 Topic 50](./50-sc100-topic.md) |
-| [51] | [SC-100 Topic 51](./51-sc100-topic.md) |
-| [52] | [SC-100 Topic 52](./52-sc100-topic.md) |
-| [53] | [SC-100 Topic 53](./53-sc100-topic.md) |
-| [54] | [SC-100 Topic 54](./54-sc100-topic.md) |
-| [55] | [SC-100 Topic 55](./55-sc100-topic.md) |
-| [56] | [SC-100 Topic 56](./56-sc100-topic.md) |
-| [57] | [SC-100 Topic 57](./57-sc100-topic.md) |
-| [58] | [SC-100 Topic 58](./58-sc100-topic.md) |
-| [59] | [SC-100 Topic 59](./59-sc100-topic.md) |
-| [60] | [SC-100 Topic 60](./60-sc100-topic.md) |
-| [61] | [SC-100 Topic 61](./61-sc100-topic.md) |
-| [62] | [SC-100 Topic 62](./62-sc100-topic.md) |
-| [63] | [SC-100 Topic 63](./63-sc100-topic.md) |
-| [64] | [SC-100 Topic 64](./64-sc100-topic.md) |
-| [65] | [SC-100 Topic 65](./65-sc100-topic.md) |
-| [66] | [SC-100 Topic 66](./66-sc100-topic.md) |
-| [67] | [SC-100 Topic 67](./67-sc100-topic.md) |
-| [68] | [SC-100 Topic 68](./68-sc100-topic.md) |
-| [69] | [SC-100 Topic 69](./69-sc100-topic.md) |
-| [70] | [SC-100 Topic 70](./70-sc100-topic.md) |
-| [71] | [SC-100 Topic 71](./71-sc100-topic.md) |
-| [72] | [SC-100 Topic 72](./72-sc100-topic.md) |
-| [73] | [SC-100 Topic 73](./73-sc100-topic.md) |
-| [74] | [SC-100 Topic 74](./74-sc100-topic.md) |
-| [75] | [SC-100 Topic 75](./75-sc100-topic.md) |
-| [76] | [SC-100 Topic 76](./76-sc100-topic.md) |
-| [77] | [SC-100 Topic 77](./77-sc100-topic.md) |
-| [78] | [SC-100 Topic 78](./78-sc100-topic.md) |
+| # | File Name | Topic Title |
+|---|------------------------------|------------------|
+| [1] | `01-design.md` | Design a security strategy to support business resiliency goals, including identifying and prioritizing threats to business-critical assets |
+| [2] | `02-design.md` | Design solutions for business continuity and disaster recovery (BCDR), including secure backup and restore for hybrid and multicloud environments |
+| [3] | `03-design.md` | Design solutions for mitigating ransomware attacks, including prioritization of BCDR and privileged access |
+| [4] | `04-evaluate.md` | Evaluate solutions for security updates |
+| [5] | `05-design.md` | Design solutions that align with best practices for cybersecurity capabilities and controls |
+| [6] | `06-design.md` | Design solutions that align with best practices for protecting against insider, external, and supply chain attacks |
+| [7] | `07-design.md` | Design solutions that align with best practices for Zero Trust security, including the Zero Trust Rapid Modernization Plan (RaMP) |
+| [8] | `08-design.md` | Design a new or evaluate an existing strategy for security and governance based on the Microsoft Cloud Adoption Framework (CAF) for Azure and the Microsoft Azure Well-Architected Framework (WAF) |
+| [9] | `09-recommend.md` | Recommend solutions for security and governance based on the Microsoft Cloud Adoption Framework for Azure and the Microsoft Azure Well-Architected Framework |
+| [10] | `10-design.md` | Design solutions for implementing and governing security by using Azure landing zones |
+| [11] | `11-design.md` | Design a DevSecOps process that aligns with best practices in the Microsoft Cloud Adoption Framework (CAF) |
+| [12] | `12-design.md` | Design a solution for detection and response that includes extended detection and response (XDR) and security information and event management (SIEM) |
+| [13] | `13-design.md` | Design a solution for centralized logging and auditing, including Microsoft Purview Audit |
+| [14] | `14-design.md` | Design monitoring to support hybrid and multicloud environments |
+| [15] | `15-design.md` | Design a solution for security orchestration automated response (SOAR), including Microsoft Sentinel and Microsoft Defender XDR |
+| [16] | `16-design.md` | Design and evaluate security workflows, including incident response, threat hunting, and incident management |
+| [17] | `17-design.md` | Design and evaluate threat detection coverage by using MITRE ATT&CK matrices, including Cloud, Enterprise, Mobile, and industrial control systems (ICS) |
+| [18] | `18-design.md` | Design a solution for access to software as a service (SaaS), platform as a service (PaaS), infrastructure as a service (IaaS), hybrid/on-premises, and multicloud resources, including identity, networking, and application controls |
+| [19] | `19-design.md` | Design a solution for Microsoft Entra ID, including hybrid and multi-cloud environments |
+| [20] | `20-design.md` | Design a solution for external identities, including business-to-business (B2B), business-to-customer (B2C), and decentralized identity |
+| [21] | `21-design.md` | Design a modern authentication and authorization strategy, including Conditional Access, continuous access evaluation, risk scoring, and protected actions |
+| [22] | `22-validate.md` | Validate the alignment of Conditional Access policies with a Zero Trust strategy |
+| [23] | `23-specify.md` | Specify requirements to harden Active Directory Domain Services (AD DS) |
+| [24] | `24-design.md` | Design a solution to manage secrets, keys, and certificates |
+| [25] | `25-design.md` | Design a solution for assigning and delegating privileged roles by using the enterprise access model |
+| [26] | `26-evaluate.md` | Evaluate the security and governance of Microsoft Entra ID, including Microsoft Entra Privileged Identity Management (PIM), entitlement management, and access reviews |
+| [27] | `27-evaluate.md` | Evaluate the security and governance of Active Directory Domain Services (AD DS), including resilience to common attacks |
+| [28] | `28-design.md` | Design a solution for securing the administration of cloud tenants, including SaaS and multicloud infrastructure and platforms |
+| [29] | `29-design.md` | Design a solution for cloud infrastructure entitlement management |
+| [30] | `30-evaluate.md` | Evaluate an access review management solution |
+| [31] | `31-design.md` | Design a solution for Privileged Access Workstation (PAW), including remote access |
+| [32] | `32-translate.md` | Translate compliance requirements into security controls |
+| [33] | `33-design.md` | Design a solution to address compliance requirements by using Microsoft Purview |
+| [34] | `34-design.md` | Design a solution to address privacy requirements, including Microsoft Priva |
+| [35] | `35-design.md` | Design Azure Policy solutions to address security and compliance requirements |
+| [36] | `36-evaluate.md` | Evaluate and validate alignment with regulatory standards and benchmarks by using Microsoft Defender for Cloud |
+| [37] | `37-evaluate.md` | Evaluate security posture by using Microsoft Defender for Cloud, including the Microsoft Cloud Security Benchmark (MCSB) |
+| [38] | `38-evaluate.md` | Evaluate security posture by using Microsoft Secure Score |
+| [39] | `39-design.md` | Design integrated security posture management solutions that include Microsoft Defender for Cloud in hybrid and multi-cloud environments |
+| [40] | `40-select.md` | Select cloud workload protection solutions in Microsoft Defender for Cloud |
+| [41] | `41-design.md` | Design a solution for integrating hybrid and multicloud environments by using Azure Arc |
+| [42] | `42-design.md` | Design a solution for Microsoft Defender External Attack Surface Management (Defender EASM) |
+| [43] | `43-specify.md` | Specify requirements and priorities for a posture management process that uses Microsoft Security Exposure Management:
+• Attack paths
+• Attack surface reduction
+• Security insights
+• Initiatives |
+| [44] | `44-specify.md` | Specify security requirements for servers, including multiple platforms and operating systems |
+| [45] | `45-specify.md` | Specify security requirements for mobile devices and clients, including endpoint protection, hardening, and configuration |
+| [46] | `46-specify.md` | Specify security requirements for IoT devices and embedded systems |
+| [47] | `47-evaluate.md` | Evaluate solutions for securing operational technology (OT) and industrial control systems (ICS) by using Microsoft Defender for IoT |
+| [48] | `48-specify.md` | Specify security baselines for server and client endpoints |
+| [49] | `49-evaluate.md` | Evaluate Windows Local Admin Password Solution (LAPS) solutions |
+| [50] | `50-specify.md` | Specify security baselines for SaaS, PaaS, and IaaS services |
+| [51] | `51-specify.md` | Specify security requirements for IoT workloads |
+| [52] | `52-specify.md` | Specify security requirements for web workloads |
+| [53] | `53-specify.md` | Specify security requirements for containers |
+| [54] | `54-specify.md` | Specify security requirements for container orchestration |
+| [55] | `55-evaluate.md` | Evaluate solutions that include Azure AI services security |
+| [56] | `56-evaluate.md` | Evaluate network designs to align with security requirements and best practices |
+| [57] | `57-evaluate.md` | Evaluate solutions that use Microsoft Entra Internet Access as a secure web gateway |
+| [58] | `58-evaluate.md` | Evaluate solutions that use Microsoft Entra Internet Access for Microsoft Services, including cross-tenant configurations |
+| [59] | `59-evaluate.md` | Evaluate solutions that use Microsoft Entra Private Access |
+| [60] | `60-evaluate.md` | Evaluate security posture for productivity and collaboration workloads by using metrics, including Microsoft Secure Score |
+| [61] | `61-evaluate.md` | Evaluate solutions that include Microsoft Defender for Office 365 and Microsoft Defender for Cloud Apps |
+| [62] | `62-evaluate.md` | Evaluate device management solutions that include Microsoft Intune |
+| [63] | `63-evaluate.md` | Evaluate solutions for securing data in Microsoft 365 by using Microsoft Purview |
+| [64] | `64-evaluate.md` | Evaluate data security and compliance controls in Microsoft Copilot for Microsoft 365 services |
+| [65] | `65-evaluate.md` | Evaluate the security posture of existing application portfolios |
+| [66] | `66-evaluate.md` | Evaluate threats to business-critical applications by using threat modeling |
+| [67] | `67-design.md` | Design and implement a full lifecycle strategy for application security |
+| [68] | `68-design.md` | Design and implement standards and practices for securing the application development process |
+| [69] | `69-map.md` | Map technologies to application security requirements |
+| [70] | `70-design.md` | Design a solution for workload identity to authenticate and access Azure cloud resources |
+| [71] | `71-design.md` | Design a solution for API management and security |
+| [72] | `72-design.md` | Design solutions that secure applications by using Azure Web Application Firewall (WAF) |
+| [73] | `73-evaluate.md` | Evaluate solutions for data discovery and classification |
+| [74] | `74-specify.md` | Specify priorities for mitigating threats to data |
+| [75] | `75-evaluate.md` | Evaluate solutions for encryption of data at rest and in transit, including Azure Key Vault and infrastructure encryption |
+| [76] | `76-design.md` | Design a security solution for data in Azure workloads, including Azure SQL, Azure Synapse Analytics, and Azure Cosmos DB |
+| [77] | `77-design.md` | Design a security solution for data in Azure Storage |
+| [78] | `78-design.md` | Design a security solution that includes Microsoft Defender for Storage and Microsoft Defender for Databases |
