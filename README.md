@@ -5,7 +5,7 @@ A practical breakdown of all 78 SC-100 skill statements — with real-world insi
 
 | # | File Name | Topic Title |
 |---|------------------------------|------------------|
-| [1] | [SC-100 Topic 1](./01-sc100-topic.md)  | Design a security strategy to support business resiliency goals, including identifying and prioritizing threats to business-critical assets |
+| [1] | [SC-100 Topic 1](./01-security-strategy-business-resiliency.md)  | Design a security strategy to support business resiliency goals, including identifying and prioritizing threats to business-critical assets |
 | [2] | `02-design.md` | Design solutions for business continuity and disaster recovery (BCDR), including secure backup and restore for hybrid and multicloud environments |
 | [3] | `03-design.md` | Design solutions for mitigating ransomware attacks, including prioritization of BCDR and privileged access |
 | [4] | `04-evaluate.md` | Evaluate solutions for security updates |
