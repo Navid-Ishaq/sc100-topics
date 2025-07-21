@@ -2,7 +2,7 @@
 
 ---
 
-## 🌐 If you prefer to read this page in English, please use your browser's "Translate to English" option.
+🌐 If you prefer to read this page in English, please use your browser's "Translate to English" option.
 
 ### 🗣️ Agar aap ye content English mein parhna chahte hain, to browser ka "Translate to English" option use karein.
 
